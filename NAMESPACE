@@ -1,0 +1,3 @@
+export(viopoints)
+S3method(viopoints,formula)
+S3method(viopoints,default)
