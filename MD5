@@ -1,5 +1,6 @@
-1e98efc006abd31f68f7ebbaaba96bc5 *DESCRIPTION
+03d060c1e1d94d42252b02fa2534819b *DESCRIPTION
 130bbde62caf3f6b29672ceda45cba66 *NAMESPACE
-06c9456b646f237f4775f5ff6666fbfd *R/viopoints.R
-be7f54485f2f306e2b4854b3ed2f1922 *man/viopoints.Rd
-c770fa7b9d1ccd14f8f11cee9faed1e2 *tests/test_viopoints.R
+7fe431e49d78d46fb78ac706f7613970 *NEWS
+e82728bac52853b8093490ff828846ef *R/viopoints.R
+7c309e6f16e41918290a7e802f24f741 *man/viopoints.Rd
+4cf98fed10972dafd9ff5a7d706ecb06 *tests/test_viopoints.R

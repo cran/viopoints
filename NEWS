@@ -1,0 +1,9 @@
+0.2-1 (2011-8-28)
+  * Added some arguments compatible with stripchart.
+  * Added argument 'side' to specify the side of plots.
+
+0.1-2 (not released)
+  * Added argument 'na.group' to improve 'NA' handlings.
+
+0.1-1 (2011-08-17)
+  * Initial release.
